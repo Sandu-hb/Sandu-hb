@@ -6,14 +6,13 @@
 
 <!-- ===================== ABOUT ME ===================== -->
 
-<h2 align="left">👋 About Me</h2>
+<h3 align="left"> About Me</h3>
 
 <p align="left">
-🎓 <b>Student at the University of Moratuwa, Sri Lanka</b><br>
-💻 Interested in <b>Full-Stack Development & Modern Web Applications</b><br>
-☁️ Exploring <b>Cloud Computing & DevOps</b><br>
-🌐 Exploring the <b>Future of Web3 Technologies</b><br>
-📍 Based in <b>Colombo, Sri Lanka</b>
+🎓 Student at the University of Moratuwa, Sri Lanka<br>
+💻 Interested in Full-Stack Development & Modern Web Applications<br>
+☁️ Exploring Cloud Computing , DevOps & Web3 Technologies <br>
+📍 Based in Colombo, Sri Lanka
 </p>
 
 <!-- ===================== CONNECT ===================== -->
