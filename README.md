@@ -4,7 +4,7 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=E0AA6F&color2=C97FA5&height=190&section=header&text=Sanduni%20Bandara&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20IT%20Undergraduate&descAlignY=62&descSize=18&descColor=ffffff"
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=E2AD69,D99F7A,D5958A,CD8899,C77CA6&height=190&section=header&text=Sanduni%20Bandara&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20IT%20Undergraduate&descAlignY=62&descSize=18&descColor=ffffff"
     width="100%"
   />
 </p>
