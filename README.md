@@ -14,7 +14,7 @@
 <!--                   CONNECT WITH ME                      -->
 <!-- ====================================================== -->
 
-<p align="center">
+<p align="center" style="margin-top: -15px;">
   <a href="https://linkedin.com/in/sanduni-bandara-123002306" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -35,29 +35,19 @@
 
 <br>
 
-<!-- ====================================================== -->
-<!--                         DIVIDER                        -->
-<!-- ====================================================== -->
-
-<hr>
 
 <!-- ====================================================== -->
 <!--                         ABOUT ME                       -->
 <!-- ====================================================== -->
 
-<h3 align="left">About Me</h3>
-
-<p align="left">
-  🎓 &nbsp;Student at the University of Moratuwa, Sri Lanka<br>
-  💻 &nbsp;Interested in Full-Stack Development & Modern Web Applications<br>
-  ☁️ &nbsp;Exploring Cloud Computing, DevOps & Web3 Technologies<br>
-  📍 &nbsp;Based in Colombo, Sri Lanka
-</p>
-
+## About Me
 
 <br>
 
-
+🎓 &nbsp;Student at the University of Moratuwa, Sri Lanka<br>
+💻 &nbsp;Interested in Full-Stack Development & Modern Web Applications<br>
+☁️ &nbsp;Exploring Cloud Computing, DevOps & Web3 Technologies<br>
+📍 &nbsp;Based in Colombo, Sri Lanka
 
 
 <br>
@@ -67,7 +57,9 @@
 <!--                       TECH STACK                       -->
 <!-- ====================================================== -->
 
-<h3 align="left">Tech Stack</h3>
+## Tech Stack
+
+<br>
 
 <p align="center">
   <img
