@@ -20,7 +20,7 @@
   🎓 &nbsp;Student at the University of Moratuwa, Sri Lanka<br>
   💻 &nbsp;Interested in Full-Stack Development & Modern Web Applications<br>
   ☁️ &nbsp;Exploring Cloud Computing, DevOps & Web3 Technologies<br>
-  📍 &nbsp;Based in <b>Colombo, Sri Lanka</b>
+  📍 &nbsp;Based in Colombo, Sri Lanka
 </p>
 
 
