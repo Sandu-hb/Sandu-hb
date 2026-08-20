@@ -15,50 +15,31 @@
 <!-- ====================================================== -->
 
 <p align="center">
-
-  <!-- LinkedIn -->
   <a href="https://linkedin.com/in/sanduni-bandara-123002306" target="_blank">
-    <img
-      src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
+    <img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-
-  &nbsp;&nbsp;&nbsp;
-
-  <!-- GitHub -->
+  <img src="https://raw.githubusercontent.com/yannickepstein/yannickepstein/main/transparent.png" width="12" height="1" />
   <a href="https://github.com/Sandu-hb" target="_blank">
-    <img
-      src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub"
-    />
+    <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-
-  &nbsp;&nbsp;&nbsp;
-
-  <!-- Gmail -->
+  <img src="https://raw.githubusercontent.com/yannickepstein/yannickepstein/main/transparent.png" width="12" height="1" />
   <a href="mailto:bandarasanduni69@gmail.com">
-    <img
-      src="https://img.shields.io/badge/GMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"
-      alt="Gmail"
-    />
+    <img src="https://img.shields.io/badge/GMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail" />
   </a>
-
-  &nbsp;&nbsp;&nbsp;
-
-  <!-- Medium -->
+  <img src="https://raw.githubusercontent.com/yannickepstein/yannickepstein/main/transparent.png" width="12" height="1" />
   <a href="https://medium.com/@sadunibandara1129" target="_blank">
-    <img
-      src="https://img.shields.io/badge/MEDIUM-0D1117?style=for-the-badge&logo=medium&logoColor=white"
-      alt="Medium"
-    />
+    <img src="https://img.shields.io/badge/MEDIUM-0D1117?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
-
 </p>
 
 
 <br>
 
+<!-- ====================================================== -->
+<!--                         DIVIDER                        -->
+<!-- ====================================================== -->
+
+<hr>
 
 <!-- ====================================================== -->
 <!--                         ABOUT ME                       -->
@@ -67,21 +48,16 @@
 <h3 align="left">About Me</h3>
 
 <p align="left">
-  🎓 &nbsp;Student at the <b>University of Moratuwa, Sri Lanka</b><br>
-  💻 &nbsp;Interested in <b>Full-Stack Development & Modern Web Applications</b><br>
-  ☁️ &nbsp;Exploring <b>Cloud Computing, DevOps & Web3 Technologies</b><br>
-  📍 &nbsp;Based in <b>Colombo, Sri Lanka</b>
+  🎓 &nbsp;Student at the University of Moratuwa, Sri Lanka<br>
+  💻 &nbsp;Interested in Full-Stack Development & Modern Web Applications<br>
+  ☁️ &nbsp;Exploring Cloud Computing, DevOps & Web3 Technologies<br>
+  📍 &nbsp;Based in Colombo, Sri Lanka
 </p>
 
 
 <br>
 
 
-<!-- ====================================================== -->
-<!--                         DIVIDER                        -->
-<!-- ====================================================== -->
-
-<hr>
 
 
 <br>
@@ -91,7 +67,7 @@
 <!--                       TECH STACK                       -->
 <!-- ====================================================== -->
 
-<h2 align="left">Tech Stack</h2>
+<h3 align="left">Tech Stack</h3>
 
 <p align="center">
   <img
